@@ -1,3 +1,4 @@
+[Nitro Tool Logo](https://wed-elitedragon.com/e.webp)
 
 <div class="container">
     <h1>🚀 Nitro Tool</h1>

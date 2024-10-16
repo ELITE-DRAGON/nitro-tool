@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="[https://your-image-url.com/nitro-tool.png](https://wed-elitedragon.com/e.webp)" alt="Nitro Tool Logo" width="300px">
-</p>
+
+  <img src="[https://your-image-url.com/nitro-tool.png](https://wed-elitedragon.com/e.webp)>
+
 
 
 <div class="container">

@@ -42,7 +42,7 @@
 <ol>
   <li><strong>Clone the Repository</strong><br />  
     First, clone the repository to your local machine. Open a terminal (or command prompt) and run:
-    <pre><code>git clone https://github.com/yourusername/nitro-tool.git</code></pre>
+    <pre><code>git clone https://github.com/ELITE-DRAGON/nitro-tool.git</code></pre>
     Replace <code>yourusername</code> with your actual GitHub username.
   </li>
 

@@ -96,7 +96,7 @@
   <h2 id="contributing">💬 Contributing</h2>
     <p>Contributions are welcome! If you have any ideas or improvements, feel free to submit a pull request.</p>
 
-    <hr>
+<hr>
 
   <h2 id="license">📜 License</h2>
   <p>This project is open-source and licensed under the <a href="LICENSE">MIT License</a>.</p>

@@ -37,6 +37,8 @@
             padding: 10px;
             border-radius: 8px;
             border: 1px solid #ccc;
+            white-space: pre-wrap;
+            word-wrap: break-word;
         }
         a {
             color: #3498db;

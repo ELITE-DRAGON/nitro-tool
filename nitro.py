@@ -1,5 +1,5 @@
 #Coded & Obfuscated By Hamza Anonime
-#Deobfuscated By @f4c3r100 :D
+
 import sys, os
 import requests , re , datetime
 from multiprocessing.dummy import Pool
